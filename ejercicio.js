@@ -20,7 +20,7 @@
 //console.log(nombreCompleto);
 
 var frutas = ["Manzana","Banana"];
-// console.log(frutas);
+console.log(frutas);
 // frutas.push("Pera");
 // console.log(frutas);
 // console.log("La primer fruta es: ",frutas[0]);

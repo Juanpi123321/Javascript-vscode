@@ -33,3 +33,4 @@ for(var fruta in frutas){
 frutas.forEach(fruta => [
     console.log(fruta)
 ])
+console.log("Nos vemos");
